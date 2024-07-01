@@ -1,31 +1,179 @@
 {
-    "About": [
-        {
+    "About": [{
+        "p1": "Hi, I'm Ismaaeel Ahmed, a passionate and creative web designer with a love for crafting beautiful, user-friendly digital experiences. My approach to web design is centered around understanding the needs of my clients and their users. I take the time to listen, learn, and collaborate to ensure that every project meets its goals and exceeds expectations.My expertise includes:",
 
+        "li_1": "Responsive web design and development",
+        "li_2": "User experience (UX) and user interface (UI) design",
+        "li_3": "Web accessibility and usability",
+        "li_4": "HTML, CSS and various web development frameworks",
+
+        "p2": "I'm constantly seeking new ways to improve my craft, staying up-to-date with the latest design trends, technologies, and best practices.My passion for web design is matched only by my passion for delivering exceptional results and building long - lasting relationships with my clients. I'm excited to share my work with you and explore how I can help bring your web design vision to life!"
+    }],
+
+    "EducationExperience": [{
+            "id": 1,
+            "heading": "Current Endeavours",
+            "p": "I am currently studying at Life Choices Academy. This is an amazing opportunity to learn how to be a developer, being taught both frontend and backend development. In addition there is a weekly mindset training session where we are taught methods to have a winner mindset.My goal for this course is to become a fully capable fullstack developer."
+        },
+
+        {
+            "id": 2,
+            "heading": "Self Study",
+            "p": "I have been doing self study work on HTML and CSS in order to improve my skills and proficiency with them.I make use of websites such as w3schools, freecodecamp and youtube videos in order to learn new techniques, features and to gain a complete understanding of how the components of a website work.With this acquired knowledge attempt at making my own projects, incorparating the new - found knowledge."
+        },
+
+        {
+            "id": 3,
+            "heading": "Post School",
+            "p": "After matric I took a gap year to do islamic studies and ended up doing the 'Mindful Muslims' course under the renowned Sheikh Ismail Londt at the DU Centre.  It was a 1 year course focusing the history of Islam, the Quran and its teachings and how to live life as a muslim. The course also offered life skill sessions which ranged from gardening and exercise to plumbing and electrical work."
+        },
+
+        {
+            "id": 4,
+            "heading": "High School",
+            "p": "I matriculated in 2022, with a Bachellors pass with Pure math, physics, IT (information technology) and EGD(Engineering and Graphic Design) being my subject course. Delphi was the coding Language we used in combination with SQL(where necessary)."
         }
     ],
 
-    "Education": [
-        {
+    "Skills": [{
+            "id": 1,
+            "heading": "HTML",
+            "level": "Level: Novice+",
+            "p": "Capable of using components to make layouts, still improving - 8 months experience"
+        },
 
+        {
+            "id": 2,
+            "heading": "CSS",
+            "level": "Level: Intemediate",
+            "p": "Good understanding of selectors, properties, psuedo-classes - 6 months experience"
+        },
+
+        {
+            "id": 3,
+            "heading": "Graphic Design",
+            "level": "Level: Novice+",
+            "p": "Able to design but lack speed - 3 years experience"
+        },
+
+        {
+            "id": 4,
+            "heading": "Java Script",
+            "level": "Level: Novice",
+            "p": "Capable of writing functions and using various JS  - 1 month experience"
+        },
+
+        {
+            "id": 5,
+            "heading": "SQL",
+            "level": "level: Novice+",
+            "p": "A basic understanding of the commands - 1 year experience"
+        },
+
+        {
+            "id": 6,
+            "heading": "Delphi",
+            "level": "Level: Intermediate",
+            "p": "Decent understanding of components, loops, arrays, etc - 3 years experience"
+        }
+
+    ],
+
+    "Projects": [{
+            "id": 1,
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-keyboard.webp",
+            "title": "Keyboard",
+            "description": "A keyboard made using HTML/CSS and animations.",
+            "github": "https://github.com/Ismaaeel-A/Keyboard.git",
+            "vercel": "https://keyboard-iyln.vercel.app/"
+        },
+
+        {
+            "id": 2,
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-calculator.jpg",
+            "title": "Calculator",
+            "description": "A non-functioning calulator made using HTML and CSS.",
+            "github": "https://github.com/Ismaaeel-A/Calculator.git",
+            "vercel": "https://calculator-rust-mu.vercel.app/"
+        },
+        
+        {
+            "id": 3,
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-form.png",
+            "title": "Form",
+            "description": "A functioning form using HTML and CSS.",
+            "github": "https://github.com/Ismaaeel-A/PE-form.git",
+            "vercel": "https://pe-form.vercel.app/"
+        },
+
+        {
+            "id": 4,
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-quiz.jpg",
+            "title": "Quiz",
+            "description": "A simple quiz page using HTML and CSS.",
+            "github": "https://github.com/Ismaaeel-A/PE-quiz.git",
+            "vercel": "https://pe-quiz-one.vercel.app/"
+        },
+
+        {
+            "id": 5,
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-menu.png",
+            "title": "Menu",
+            "description": "A simple menu design making use of HTML and CSS.",
+            "github": "https://github.com/Ismaaeel-A/PE-menu.git",
+            "vercel": "https://pe-menu-97bz.vercel.app/"
+        },
+
+        {
+            "id": 6,
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-ferrisWheel.jpg",
+            "title": "Ferris Wheel",
+            "description": "An animated ferris wheel using HTML/CSS/keyframes.",
+            "github": "https://github.com/Ismaaeel-A/PE-ferrisWheel.git",
+            "vercel": "https://pe-ferris-wheel.vercel.app/"
         }
     ],
 
-    "Skills": [
+    "Testimonials": [{
+            "id": 1,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-joel.jpg",
+            "personName": "Joel Mukanya",
+            "comment": "Ismaaeel is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I ampleased to introduce him as an exceptional candidate and developer."
+        },
+
         {
+            "id": 2,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-abdu.jpeg",
+            "personName": "Abdurahmaan Charif",
+            "comment": "Ismaaeel is an insightful individual who's creativity knows no bounds. I have the pleasure of working alongside him where he has displayed a wealth of knowledge and a good-hearted nature making it truly pleasant to work with him. Ismaeel will be an asset to any team and organization that he will belong to."
+        },
 
-        }
-    ],
-
-    "Projects": [
         {
+            "id": 3,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-zizipho.jpg",
+            "personName": "Zizipho",
+            "comment": "Ismaaeel is a very good classmate and friend. He is always willing to land a helping hand. He is easy to approach and help in any situation. He avails himself for anyone's needs and is very selfless. It is a pleasure to work with him as he is very respectful and polite. He is very driven and focused and that is most commendable about him. He is overall a great individual."
+        },
 
-        }
-    ],
-
-    "Testimonials": [
         {
+            "id": 4,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-nizaam.jpg",
+            "personName": "Nizaam Jeftha",
+            "comment": "Ismaaeel is extremely talented as a developer but is also the kind of friend who goes above and beyond to support those around him. He is a very dedicated and hardworking individual who always strives for perfection and does not allow failure to get in his way."
+        },
 
+        {
+            "id": 5,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-imaraan.jpg",
+            "personName": "Imaraan",
+            "comment": "Behind his initial shyness lies a passionate intellect, particularly evident in his fervor for web development. He approaches challenges with a unique perspective, often finding innovative solutions with meticulous attention to detail. Ismaaeel's humility is striking, as he remains approachable and eager to help others despite his remarkable talents making him a valuable asset to any team fortunate enough to have him."
+        },
+
+        {
+            "id": 6,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-mordecai.jpg",
+            "personName": "Mordecai Dimbu",
+            "comment": "Ismaaeel is a hardworking, approachable individual known for his willingness to help others. He excels in problem-solving and is highly recommended for roles that value these qualities."
         }
     ]
 }
