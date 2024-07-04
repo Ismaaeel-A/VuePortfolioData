@@ -37,44 +37,50 @@
 
     "Skills": [{
             "id": 1,
-            "heading": "HTML",
-            "level": "Level: Novice+",
-            "p": "Capable of using components to make layouts, still improving - 8 months experience"
+            "img": "https://ismaaeel-a.github.io/allimages/Images/i-html.png",
+            "name": "HTML"
         },
 
         {
             "id": 2,
-            "heading": "CSS",
-            "level": "Level: Intemediate",
-            "p": "Good understanding of selectors, properties, psuedo-classes - 6 months experience"
+            "img": "https://ismaaeel-a.github.io/allimages/Images/i-css.png",
+            "name": "CSS"
         },
 
         {
             "id": 3,
-            "heading": "Graphic Design",
-            "level": "Level: Novice+",
-            "p": "Able to design but lack speed - 3 years experience"
+            "img": "https://ismaaeel-a.github.io/allimages/Images/i-js.png",
+            "name": "JAVASCRIPT"
         },
 
         {
             "id": 4,
-            "heading": "Java Script",
-            "level": "Level: Novice",
-            "p": "Capable of writing functions and using various JS  - 1 month experience"
+            "img": "https://ismaaeel-a.github.io/allimages/Images/i-bootstrap.png",
+            "name": "BOOTSTRAP"
         },
 
         {
             "id": 5,
-            "heading": "SQL",
-            "level": "level: Novice+",
-            "p": "A basic understanding of the commands - 1 year experience"
+            "img": "https://ismaaeel-a.github.io/allimages/Images/i-delphi.png",
+            "name": "DELPHI"
         },
 
         {
             "id": 6,
-            "heading": "Delphi",
-            "level": "Level: Intermediate",
-            "p": "Decent understanding of components, loops, arrays, etc - 3 years experience"
+            "img": "https://ismaaeel-a.github.io/allimages/Images/i-design.png",
+            "name": "DESIGN"
+        },
+
+        {
+            "id": 7,
+            "img": "https://ismaaeel-a.github.io/allimages/Images/i-vue.png",
+            "name": "VUE JS"
+        },
+
+        {
+            "id": 8,
+            "img": "https://ismaaeel-a.github.io/allimages/Images/i-mysql.png",
+            "name": "MYSQL"
         }
 
     ],
