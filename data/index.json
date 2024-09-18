@@ -13,7 +13,7 @@
     "EducationExperience": [{
             "id": 1,
             "heading": "Current Endeavours",
-            "p": "I am currently studying at Life Choices Academy. This is an amazing opportunity to learn how to be a developer, being taught both frontend and backend development. In addition there is a weekly mindset training session where we are taught methods to have a winner mindset.My goal for this course is to become a fully capable fullstack developer."
+            "p": "Currently, I am immersed in the LifeChoices Academy web development course where I am honing my skills across a range of essential technologies. We've covered the fundamentals of HTML and CSS, allowing me to create visually appealing and structured web pages. Through Bootstrap, I've learned how to build responsive designs that enhance user experience. Diving into JavaScript and Vue.js has opened up exciting possibilities for creating dynamic, interactive applications. Additionally, I am gaining proficiency in backend development with Node.js and MySQL, which enables me to manage databases and server-side functionality effectively. To complement my technical skills, I’m also exploring Figma for UI/UX design, helping me to create intuitive interfaces. Overall, this boot camp is a transformative experience that is equipping me with the tools to thrive in the web development field."
         },
 
         {
@@ -31,7 +31,7 @@
         {
             "id": 4,
             "heading": "High School",
-            "p": "I matriculated in 2022, with a Bachellors pass with Pure math, physics, IT (information technology) and EGD(Engineering and Graphic Design) being my subject course. Delphi was the coding Language we used in combination with SQL(where necessary)."
+            "p": "I matriculated in 2022, with a Bachellors pass with Pure math, physics, IT (information technology) and EGD(Engineering and Graphic Design) being my subject course. Delphi was the coding Language we used in combination with SQL."
         }
     ],
 
