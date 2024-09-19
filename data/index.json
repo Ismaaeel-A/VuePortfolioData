@@ -98,7 +98,7 @@
             "id": 2,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-calculator.jpg",
             "title": "Calculator",
-            "description": "A non-functioning calulator made using HTML and CSS.",
+            "description": "HTML - CSS.",
             "github": "https://github.com/Ismaaeel-A/Calculator.git",
             "vercel": "https://calculator-rust-mu.vercel.app/"
         },
@@ -116,7 +116,7 @@
             "id": 4,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-quiz.jpg",
             "title": "Quiz",
-            "description": "A simple quiz page using HTML and CSS.",
+            "description": "HTML - CSS.",
             "github": "https://github.com/Ismaaeel-A/PE-quiz.git",
             "vercel": "https://pe-quiz-one.vercel.app/"
         },
@@ -125,7 +125,7 @@
             "id": 5,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-menu.png",
             "title": "Menu",
-            "description": "A simple menu design making use of HTML and CSS.",
+            "description": "HTML - CSS.",
             "github": "https://github.com/Ismaaeel-A/PE-menu.git",
             "vercel": "https://pe-menu-97bz.vercel.app/"
         },
