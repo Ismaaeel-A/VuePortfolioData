@@ -88,10 +88,10 @@
     "Projects": [{
             "id": 1,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-keyboard.webp",
-            "title": "Keyboard",
-            "description": "A keyboard made using HTML/CSS and animations.",
-            "github": "https://github.com/Ismaaeel-A/Keyboard.git",
-            "vercel": "https://keyboard-iyln.vercel.app/"
+            "title": "Elite Galería",
+            "description": "Vue - Node - Bootstrap",
+            "github": "https://github.com/Ismaaeel-A/CAPSTONE-Ismaaeel_Ahmed.git",
+            "vercel": "https://elite-galeria.web.app/"
         },
 
         {
@@ -106,10 +106,10 @@
         {
             "id": 3,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-form.png",
-            "title": "Form",
-            "description": "A functioning form using HTML and CSS.",
-            "github": "https://github.com/Ismaaeel-A/PE-form.git",
-            "vercel": "https://pe-form.vercel.app/"
+            "title": "Animerch",
+            "description": "HTML - CSS - Bootstrap - Javascript",
+            "github": "https://github.com/Ismaaeel-A/Animerch.git",
+            "vercel": "animerch-pi.vercel.app"
         },
 
         {
@@ -134,9 +134,9 @@
             "id": 6,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-ferrisWheel.jpg",
             "title": "Ferris Wheel",
-            "description": "An animated ferris wheel using HTML/CSS/keyframes.",
-            "github": "https://github.com/Ismaaeel-A/PE-ferrisWheel.git",
-            "vercel": "https://pe-ferris-wheel.vercel.app/"
+            "description": "HTML - CSS",
+            "github": "https://github.com/Ismaaeel-A/Keyboard.git",
+            "vercel": "keyboard-iyln.vercel.app"
         }
     ],
 
