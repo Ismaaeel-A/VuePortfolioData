@@ -132,11 +132,11 @@
 
         {
             "id": 6,
-            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-ferrisWheel.jpg",
-            "title": "Ferris Wheel",
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-keyboard.webp",
+            "title": "Keyboard",
             "description": "HTML - CSS",
             "github": "https://github.com/Ismaaeel-A/Keyboard.git",
-            "vercel": "keyboard-iyln.vercel.app"
+            "vercel": "https://keyboard-iyln.vercel.app/"
         }
     ],
 
