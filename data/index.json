@@ -96,11 +96,11 @@
 
         {
             "id": 2,
-            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-calculator.jpg",
-            "title": "Calculator",
-            "description": "HTML - CSS.",
-            "github": "https://github.com/Ismaaeel-A/Calculator.git",
-            "vercel": "https://calculator-rust-mu.vercel.app/"
+            "img": "https://ismaaeel-a.github.io/allimages/Images/weatherwise.jpg",
+            "title": "Weather Wise",
+            "description": "Python - Flask",
+            "github": "https://github.com/robynainsley21/weather_app.git",
+            "vercel": "https://weather-wise-sftw-eng.vercel.app/"
         },
         
         {
